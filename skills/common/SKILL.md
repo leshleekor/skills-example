@@ -1,4 +1,4 @@
-# example
+# examples
 
 Use this skill when you need a minimal placeholder skill for local sync validation.
 
